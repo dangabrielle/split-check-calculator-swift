@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1A3C1F852B9BC87B006FB0FE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1AD0C2762B3B8E4300C7DD1A /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AD0C2792B3B8E4300C7DD1A /* WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitApp.swift; sourceTree = "<group>"; };
 		1AD0C27B2B3B8E4300C7DD1A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +36,7 @@
 		1AD0C26D2B3B8E4300C7DD1A = {
 			isa = PBXGroup;
 			children = (
+				1A3C1F852B9BC87B006FB0FE /* README.md */,
 				1AD0C2782B3B8E4300C7DD1A /* WeSplit */,
 				1AD0C2772B3B8E4300C7DD1A /* Products */,
 			);
